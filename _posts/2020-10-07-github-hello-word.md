@@ -6,7 +6,7 @@ header-img: img/in-post/2020-10-07/header.jpg
 header-style: text
 catalog: true
 tags:
-  - Pentesting
+  - CTF{:.CTF}
 ---
 
 ## Desplegar Laboratorio
@@ -38,6 +38,11 @@ Most people would find the picture of our universe as an infinite tower of torto
 
 ```bash
 hostname -I
+```
+Otro comando que podemos utilizar es el siguiente 
+
+```bash
+ipconfig
 ```
 
 ## Image
