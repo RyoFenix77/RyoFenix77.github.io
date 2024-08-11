@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Hello Word
+title: Primer Artículo
 subtitle: Welcome to Jekyll Theme Gungnir
 header-img: img/in-post/2020-10-07/header.jpg
 header-style: text
 catalog: true
 tags:
-  - 摸鱼
+  - Pentesting
 ---
 
-## Paragraph
+## CTF
 
 A well-known scientist (some say it was Bertrand Russell) once gave a public lecture on astronomy. He described how the earth orbits around the sun and how the sun, in turn, orbits around the center of a vast collection of stars called our galaxy. At the end of the lecture, a little old lady at the back of the room got up and said: “What you have told us is rubbish. The world is really a flat plate supported on the back of a giant tortoise.” The scientist gave a superior smile before replying, “What is the tortoise standing on.” “You’re very clever, young man, very clever,” said the old lady. “But it’s turtles all the way down!”
 
@@ -36,24 +36,8 @@ Most people would find the picture of our universe as an infinite tower of torto
 
 ## Code Block
 
-```python
-import food
-
-class Dragon:
-    def __init__(self, happiness):
-        self.happiness = happiness
-    def code(self):
-        """ just code """
-        self.happiness -= 60
-    def eat(self, n)
-        # just eat
-        self.happiness += n * food.size
-
-me = Dragon(100)
-
-while True:
-    me.code()
-    me.eat(10)
+```bash
+hostname -I
 ```
 
 ## Image
